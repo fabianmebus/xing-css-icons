@@ -1,0 +1,43 @@
+html {
+    font-family: Verdana, Geneva, sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-size: 1em;
+    line-height: 1.4;
+    color: #222;
+}
+
+body {
+    margin: 1em;
+    background-color: #fff;
+}
+
+h1 {
+    font-size: 1.45em;
+    text-shadow: 0 1px 1px #eaeaea;
+}
+
+a:focus {
+    outline: thin dotted;
+}
+
+.list-unstyled {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+* Hide only visually, but have it available for screenreaders: h5bp.com/v
+*/
+.visuallyhidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    border: 0;
+}
