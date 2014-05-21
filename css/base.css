@@ -16,6 +16,7 @@ body {
 h1 {
     font-size: 1.45em;
     text-shadow: 0 1px 1px #eaeaea;
+    text-align: center;
 }
 
 a:focus {
@@ -24,8 +25,21 @@ a:focus {
 
 .list-unstyled {
     list-style: none;
-    margin: 0;
+    margin: 0 0 10px 0;
     padding: 0;
+    text-align: center;
+}
+
+.font-size-large {
+    font-size: 2em;
+}
+
+.font-size-x-large {
+    font-size: 4em;
+}
+
+.font-size-xx-large {
+    font-size: 8em;
 }
 
 /*
