@@ -10,7 +10,7 @@ There is one CSS file for each icon. Check out the markup below and copy the CSS
 
 | Xing icon | Xing icon light |
 |:---:|:---:|
-| ![Xing icon](icon-xing.png "Xing icon") | ![Xing icon light](icon-xing-light.png "Xing icon light") |
+| ![Xing icon](https://raw.githubusercontent.com/fabianmebus/xing-css-icons/master/docs/icon-xing.png "Xing icon") | ![Xing icon light](https://raw.githubusercontent.com/fabianmebus/xing-css-icons/master/docs/icon-xing-light.png "Xing icon light") |
 | [icon-xing.css](icon-xing.css) | [icon-xing-light.css](icon-xing-light.css) |
 | `.icon-xing` | `.icon-xing-light` |
 
