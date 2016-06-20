@@ -6,7 +6,7 @@ To put a link to your XING profile on your website using an icon, you could use 
 request you can replace the image with some HTML and CSS. So, here you will find the HTML and CSS for different XING 
 icons.
 
-### [Demo](https://fabianmebus.com/xing-css-icons/)
+### [Demo](http://fabianmebus.github.io/xing-css-icons/)
 
 ## How to Use It
 
