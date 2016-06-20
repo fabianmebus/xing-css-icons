@@ -16,6 +16,12 @@ Thumbs.db
 *.iws
 .idea/
 
+# Eclipse IDE #
+###############
+.project
+.externalToolBuilders/
+.settings/
+
 # SublimeText project files #
 #############################
 *.sublime-workspace
