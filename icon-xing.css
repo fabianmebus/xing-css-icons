@@ -1,89 +1,89 @@
 .icon-xing {
-    box-sizing: initial;
-    position: relative;
-    display: inline-block;
-    width: 1.2em;
-    height: 1.2em;
-    border: .0625em solid #004B58;
-    border-radius: .1875em;
-    background-color: #006567;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#326E79), to(#004B58));
-    background-image: -webkit-linear-gradient(top, #326E79, #004B58);
-    background-image: -moz-linear-gradient(top, #326E79, #004B58);
-    background-image: -o-linear-gradient(top, #326E79, #004B58);
-    background-image: linear-gradient(to bottom, #326E79, #004B58);
-    -webkit-box-shadow: 0 0 .25em #999;
-    box-shadow: 0 0 .25em #999;
-    font-size: 1.5em;
-    vertical-align: middle;
+  box-sizing: initial;
+  position: relative;
+  display: inline-block;
+  width: 1.2em;
+  height: 1.2em;
+  border: .0625em solid #004B58;
+  border-radius: .1875em;
+  background-color: #006567;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#326E79), to(#004B58));
+  background-image: -webkit-linear-gradient(top, #326E79, #004B58);
+  background-image: -moz-linear-gradient(top, #326E79, #004B58);
+  background-image: -o-linear-gradient(top, #326E79, #004B58);
+  background-image: linear-gradient(to bottom, #326E79, #004B58);
+  -webkit-box-shadow: 0 0 .25em #999;
+  box-shadow: 0 0 .25em #999;
+  font-size: 1.5em;
+  vertical-align: middle;
 }
 
 .icon-xing > a {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: 1;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
 }
 
 .icon-xing > a:focus {
-    outline: #006567 thin dotted;
-    outline-offset: 2px;
+  outline: #006567 thin dotted;
+  outline-offset: 2px;
 }
 
 .icon-xing:before, .icon-xing:after,
 .icon-xing > a:before, .icon-xing > a:after {
-    content: "";
-    position: absolute;
-    width: .2em;
-    background-color: #fff;
+  content: "";
+  position: absolute;
+  width: .2em;
+  background-color: #fff;
 }
 
 .icon-xing:before, .icon-xing > a:before {
-    border-radius: .03em .03em 0 0;
+  border-radius: .03em .03em 0 0;
 }
 
 .icon-xing:after, .icon-xing > a:after {
-    border-radius: 0 0 .03em .03em;
+  border-radius: 0 0 .03em .03em;
 }
 
 .icon-xing:before, .icon-xing > a:after {
-    -webkit-transform: skewX(30deg);
-    -moz-transform: skewX(30deg);
-    -ms-transform: skewX(30deg);
-    -o-transform: skewX(30deg);
-    transform: skewX(30deg);
+  -webkit-transform: skewX(30deg);
+  -moz-transform: skewX(30deg);
+  -ms-transform: skewX(30deg);
+  -o-transform: skewX(30deg);
+  transform: skewX(30deg);
 }
 
 .icon-xing:after, .icon-xing > a:before {
-    -webkit-transform: skewX(-30deg);
-    -moz-transform: skewX(-30deg);
-    -ms-transform: skewX(-30deg);
-    -o-transform: skewX(-30deg);
-    transform: skewX(-30deg);
+  -webkit-transform: skewX(-30deg);
+  -moz-transform: skewX(-30deg);
+  -ms-transform: skewX(-30deg);
+  -o-transform: skewX(-30deg);
+  transform: skewX(-30deg);
 }
 
 .icon-xing:before {
-    top: 0.27em;
-    left: 0.27em;
-    height: .2em;
+  top: 0.27em;
+  left: 0.27em;
+  height: .2em;
 }
 
 .icon-xing:after {
-    top: 0.47em;
-    left: 0.235em;
-    height: .32em;
+  top: 0.47em;
+  left: 0.235em;
+  height: .32em;
 }
 
 .icon-xing > a:before {
-    top: 0.07em;
-    left: 0.675em;
-    height: .61em;
+  top: 0.07em;
+  left: 0.675em;
+  height: .61em;
 }
 
 .icon-xing > a:after {
-    top: 0.68em;
-    left: 0.62em;
-    height: .415em;
+  top: 0.68em;
+  left: 0.62em;
+  height: .415em;
 }
